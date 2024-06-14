@@ -1,0 +1,14 @@
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/bin/Debug/net8.0/Dcit318Assignment2
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/bin/Debug/net8.0/Dcit318Assignment2.deps.json
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/bin/Debug/net8.0/Dcit318Assignment2.runtimeconfig.json
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/bin/Debug/net8.0/Dcit318Assignment2.dll
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/bin/Debug/net8.0/Dcit318Assignment2.pdb
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.AssemblyInfoInputs.cache
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.AssemblyInfo.cs
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.csproj.CoreCompileInputs.cache
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.dll
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/refint/Dcit318Assignment2.dll
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.pdb
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/Dcit318Assignment2.genruntimeconfig.cache
+/Users/mwiningbongbaeka/Downloads/school/318/dcit318-assignment2-10809852/Dcit318Assignment2/obj/Debug/net8.0/ref/Dcit318Assignment2.dll
